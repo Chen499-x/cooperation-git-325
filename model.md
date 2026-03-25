@@ -3,7 +3,7 @@
 ## 学生表（student）
 | 字段名     | 数据类型 | 约束          | 说明       |
 |------------|----------|---------------|------------|
-| student_id | INT      | PRIMARY KEY, NOT NULL | 学号（主键） |
+| stu_id | INT      | PRIMARY KEY, NOT NULL | 学号（主键） |
 | name       | VARCHAR(20) | NOT NULL   | 姓名       |
 | gender     | VARCHAR(2) |           | 性别       |
 | age        | INT      |               | 年龄       |
